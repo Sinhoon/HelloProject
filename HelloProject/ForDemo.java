@@ -38,5 +38,5 @@ public class ForDemo {
 			System.out.printf("\n");
 		}
 	}
-//수정
+//수정..
 }
