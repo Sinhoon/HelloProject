@@ -15,17 +15,17 @@ public class ForDemo {
 				sum += i;
 			}
 		}
-		System.out.printf("1~100 ÇÕ = %d \n", sum);
+		System.out.printf("1~100 Ã‡Ã• = %d \n", sum);
 
 		for (int i = 2; i < 10; i++) {
-			System.out.printf("%d ´Ü \n", i);
+			System.out.printf("%d Â´Ãœ \n", i);
 			for (int j = 1; j < 10; j++) {
 				System.out.printf("%d * %d  = %d \n", i, j, i * j);
 			}
 		}
 		
 		for (int i = 9; i > 1; i--) {
-			System.out.printf("%d ´Ü \n", i);
+			System.out.printf("%d Â´Ãœ \n", i);
 			for (int j = 1; j < 10; j++) {
 				System.out.printf("%d * %d  = %d \n", i, j, i * j);
 			}
@@ -38,4 +38,5 @@ public class ForDemo {
 			System.out.printf("\n");
 		}
 	}
+//ìˆ˜ì •
 }
